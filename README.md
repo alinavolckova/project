@@ -2,7 +2,7 @@ The Knuth–Morris–Pratt string searching algorithm (or KMP algorithm) searche
 
 Instructions:
 
-1.Run the program code.py.
+1.Run the program Main.py.
 
 2.Act In accordance with the instructions of the program.
 
